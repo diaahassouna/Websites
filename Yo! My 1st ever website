@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yo!</title>
+</head>
+<body>
+
+<h1 style="color:black;text-align: center;">
+    <?php
+    echo "I'm the furious king!";
+    ?>
+
+</h1>
+
+<h2 style="color: blueviolet;text-align: center;">
+    <?php
+    print("Yo!");
+    ?>
+
+</h2>
+
+<p style="color: royalblue;text-align: center;font-weight: bold;font: large;font-family: cursive">
+    You are beautiful!
+</p>
+
+</body>
+</html>
